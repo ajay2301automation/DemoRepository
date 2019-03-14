@@ -13,5 +13,7 @@ public class HomePage {
 	}
 	
 	public void justForTest(){}
+	
+	public void anotherTest(){}
 
 }
